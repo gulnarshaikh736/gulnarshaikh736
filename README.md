@@ -4,8 +4,6 @@
 
 🚀 Passionate about building innovative web applications, AI-powered solutions, and IoT projects that solve real-world problems.
 
-📍 India
-
 ---
 
 ### 🌱 Currently Learning
@@ -24,18 +22,6 @@
 - Web Development
 - Flutter Apps
 - IoT Innovations
-
-### 💬 Ask Me About
-- HTML • CSS • JavaScript
-- React • Node.js • Express
-- Firebase
-- Python
-- C/C++
-- Git & GitHub
-- UI/UX Design
-
-### 📫 Reach Me
-📧 shaikhgulnar505@gmail.com
 
 ### ⚡ Fun Fact
 💡 I love turning ideas into real-world applications and believe that every project is an opportunity to learn something new.
