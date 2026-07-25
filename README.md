@@ -35,7 +35,7 @@
 - UI/UX Design
 
 ### 📫 Reach Me
-📧 your-email@example.com
+📧 shaikhgulnar505@gmail.com
 
 ### ⚡ Fun Fact
 💡 I love turning ideas into real-world applications and believe that every project is an opportunity to learn something new.
